@@ -1,0 +1,7 @@
+discord>=1.0.1
+pytz>=2021.1
+requests>=2.25.1
+python-dotenv>=0.19.2
+emoji>=1.7.0
+discord.py>= 1.7.3
+discord-py-slash-command>= 3.0.3
